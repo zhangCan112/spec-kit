@@ -19,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+node_modules/
 
 # Virtual environments
 venv/
@@ -39,6 +40,7 @@ env/
 .env
 .env.local
 *.lock
+workflow-platform/node_modules/
 
 # Spec Kit-specific files
 .genreleases/
